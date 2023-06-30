@@ -2,6 +2,7 @@ module.exports = {
   title: 'Zzz',
   description: '花团锦簇的节日用来铭记逝者，而我宁愿被人遗忘。',
   theme: 'reco',
+  base: '/blog/',
   locales: {
     '/': {
       lang: 'zh-CN',

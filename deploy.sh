@@ -8,13 +8,12 @@ npm run build
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
- cp -r * ../../../
-
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 
+git init
 git add .
 git commit -m 'deploy'
-git push
+git push -f https://github.com/wakexiao/wakexiao.github.io.git master:gh-pages
 
 cd -
