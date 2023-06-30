@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/background.jpg"
+heroImage: "/live.jpg"
 heroText: Zzz
 heroImageStyle:
   {
