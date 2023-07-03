@@ -8,10 +8,11 @@ module.exports = {
       lang: 'zh-CN',
     },
   },
+  head: [['link', { rel: 'icon', href: '/images/favicon.png' }]],
   themeConfig: {
     subSidebar: 'auto',
-    logo: '/avatar.jpg',
-    authorAvatar: '/avatar.jpg',
+    logo: '/images/avatar.jpg',
+    authorAvatar: '/images/avatar.jpg',
     type: 'blog',
     author: 'Zzz',
     nav: [
