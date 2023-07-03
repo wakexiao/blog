@@ -7,6 +7,8 @@ tags:
   - 面试
 sticky: 1
 ---
+<img src="https://s1.ax1x.com/2023/06/30/pCBi8VP.jpg" alt=""/>
+<!-- more -->
 
 ## 一. HTML + CSS
 > 一般 HTML 和 CSS 相关的面试题都问的会比较少；只挑了部分常问的问题做整理。

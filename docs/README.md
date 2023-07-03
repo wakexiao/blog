@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/live.jpg"
+heroImage: "https://s1.ax1x.com/2023/06/30/pCBi8VP.jpg"
 heroText: Zzz
 heroImageStyle:
   {
